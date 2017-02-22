@@ -1,7 +1,11 @@
 <h2><u>Factory to build pipeline</u></h2>
 
 
-<p><b>Install :</b></p>
+<p><b>Install Nuget :</b>
+<p>
+	https://www.nuget.org/packages/PortableLibrary.RAijon.SimplePipelineXamarin/1.0.0
+</p>
+</p>
 
 <pre><b>Example of use:</b> 
    var context=new FactoryContext()
