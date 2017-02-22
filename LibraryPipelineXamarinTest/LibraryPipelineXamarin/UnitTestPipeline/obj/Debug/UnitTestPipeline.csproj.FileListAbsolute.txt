@@ -1,0 +1,9 @@
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\obj\Debug\UnitTestPipeline.csprojResolveAssemblyReference.cache
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\bin\Debug\UnitTestPipeline.dll
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\bin\Debug\UnitTestPipeline.pdb
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\bin\Debug\LibraryPipelineXamarin.dll
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\bin\Debug\LibraryPipelineXamarin.pdb
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\obj\Debug\UnitTestPipeline.dll
+C:\Users\RAIJON\documents\visual studio 2015\Projects\LibraryPipelineXamarin\UnitTestPipeline\obj\Debug\UnitTestPipeline.pdb

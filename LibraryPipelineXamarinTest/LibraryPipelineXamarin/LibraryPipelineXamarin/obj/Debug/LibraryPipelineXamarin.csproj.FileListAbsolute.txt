@@ -1,0 +1,4 @@
+c:\users\raijon\documents\visual studio 2015\Projects\LibraryPipelineXamarin\LibraryPipelineXamarin\bin\Debug\LibraryPipelineXamarin.dll
+c:\users\raijon\documents\visual studio 2015\Projects\LibraryPipelineXamarin\LibraryPipelineXamarin\bin\Debug\LibraryPipelineXamarin.pdb
+c:\users\raijon\documents\visual studio 2015\Projects\LibraryPipelineXamarin\LibraryPipelineXamarin\obj\Debug\LibraryPipelineXamarin.dll
+c:\users\raijon\documents\visual studio 2015\Projects\LibraryPipelineXamarin\LibraryPipelineXamarin\obj\Debug\LibraryPipelineXamarin.pdb
